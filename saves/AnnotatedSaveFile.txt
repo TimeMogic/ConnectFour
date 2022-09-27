@@ -1,0 +1,10 @@
+3		// The number of rows
+4		// The number of columns
+3		// The streak length required to win
+2		// The number of the active player (it will be the turn of player 2 after this game is loaded)
+0000	// The top row of the board (completely empty)
+0121	// The middle row of the board
+1212	// The bottom row of the board
+
+Please note: This is an annotated file to explain the file format.
+Your program does not have to be able to load it.
